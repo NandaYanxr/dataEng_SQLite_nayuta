@@ -1,0 +1,40 @@
+#existing code folder
+existing_code/
+
+# DBT
+target/
+dbt_packages/
+logs/
+local_note/
+
+# IDE settings
+.idea/
+.vscode/*
+*.iml
+
+# Python
+venv/
+.venv/
+.tox/
+*.pyc
+__pycache__
+.pytest_cache
+
+# MacOS
+.DS_Store
+
+# Env
+*.env*
+
+# Github Annotations
+github_annotations.json
+
+# Testing file
+test.txt
+test.sql
+text.yaml
+.vscode/settings.json
+
+snowflake.log
+.DS_Store
+.user.yml
